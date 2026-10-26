@@ -1,0 +1,12 @@
+# ── Frosted / foggy background ──
+background-opacity = 0.9
+background-blur = 20
+
+# ── Titlebar (the bar with your folder/title) ──
+macos-titlebar-style = tabs
+window-subtitle = working-directory
+
+# ── Breathing room + polish ──
+window-padding-x = 10
+window-padding-y = 8
+window-padding-balance = true
