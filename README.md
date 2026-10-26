@@ -5,7 +5,7 @@ My Mac setup in one command.
 ## New Mac
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/CHANGE_ME/dotfiles/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nordiel/dotfiles/main/install.sh | bash
 ```
 
 It installs the Xcode CLT, Homebrew, everything in `Brewfile`, Oh My Zsh with Powerlevel10k, nvm (Node 18/20/22, default 18), Python 3.14 via uv, Claude Code, and the VS Code extensions. It also symlinks the configs below, creates an SSH key if one is missing, and applies `macos.sh`.

@@ -5,7 +5,7 @@
 #   Local:      ~/dotfiles/install.sh
 set -euo pipefail
 
-DOTFILES_REPO="${DOTFILES_REPO:-https://github.com/CHANGE_ME/dotfiles.git}"
+DOTFILES_REPO="${DOTFILES_REPO:-https://github.com/nordiel/dotfiles.git}"
 DOTFILES="${DOTFILES:-$HOME/dotfiles}"
 NODE_VERSIONS=(18 20 22)
 NODE_DEFAULT=18
